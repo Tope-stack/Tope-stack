@@ -26,14 +26,7 @@ Techonologies I currently work with
  - Lookin to collaborate with other developers to work on more projects
  - You can contact me at [yusufftope70@gmail.com](mailto:yusufftope70@gmail.com)
 
-/**  <a href="https://www.github.com/Tope-stack" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Tope-stack?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> **/
-
  <br>
-
- ### My Github Stats
-
-/** <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tope-stack&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=000000&color=FF0000" style="width:100%"> **/
-
  
  ---
 
