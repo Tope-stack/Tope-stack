@@ -27,14 +27,6 @@ Techonologies I currently work with
  - You can contact me at [yusufftope70@gmail.com](mailto:yusufftope70@gmail.com)
 
  <br>
- 
- ---
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tope-stack&show_icons=true&include_all_commits=true&hide_border=true" alt="Tope's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tope-stack&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
-
- 
- 
 
  ### Connect with me on
 
